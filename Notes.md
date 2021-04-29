@@ -6,3 +6,10 @@
   - These files contain data and instructions in an intermediate format
 - Linker => generates programs from object files
   - responsible for finding the libraries you've included within your source code
+
+# Type System
+
+- Object-oriented language => objects are abstractions with state and behavior
+- The collection of behaviors and states describing an object is called its => type
+- Strongly typed language => each object has a predefined data type
+  - int -> the int object can store whole numbers (its state) and support many math operations (its behavior)
